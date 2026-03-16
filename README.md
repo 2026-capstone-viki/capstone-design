@@ -1,1 +1,1 @@
-# capstone-design
+# 한림대학교 VIKI 🙋‍♂️
