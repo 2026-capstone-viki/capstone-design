@@ -53,4 +53,4 @@
 ##라이선스
 #이 프로젝트는 MIT 라이선스를 따릅니다.
 
-> **문의**: 권혁진 (hyuckjin1682@gmail.com / GitHub: [khj020625](https://github.com/khj020625)
+> **문의**: 권혁진 (hyuckjin1682@gmail.com / GitHub: [HyuckjinKwon](https://github.com/HyuckjinKwon)
